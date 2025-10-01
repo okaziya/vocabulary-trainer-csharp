@@ -1,0 +1,9 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio cache
+.vs/
+
+# My files
+*.json
